@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Крем-мед алтайский супер-вкусный1",
+    "price": 820,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Гречичный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный2",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный3",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный4",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный5",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный6",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный7",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный8",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный9",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный10",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный11",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  },
+  {
+    "name": "Крем-мед алтайский супер-вкусный12",
+    "price": 320,
+    "discount": 120,
+    "description": "lorem ipsum dolor sit amet",
+    "category": "Цветочный"
+  }
+]
